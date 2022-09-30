@@ -38,3 +38,21 @@ ul{
     margin: 10px;
     color: white;
 }
+/* section *//* section *//* section *//* section *//* section */
+#top-player{
+   background-color: rgb(252, 229, 229); 
+   width: 870px;
+   border-radius: 5px;
+   margin: 0 auto;
+   margin-top: 25px;
+}
+#title{
+    padding: 25px;
+}
+.players{
+    display: flex;
+    align-items: center;
+}
+.player-img{
+    width: 56px;
+}
