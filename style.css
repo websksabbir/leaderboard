@@ -52,7 +52,19 @@ ul{
 .players{
     display: flex;
     align-items: center;
+    margin: 25px;
 }
 .player-img{
     width: 56px;
+}
+
+
+
+
+#top-plyer-main{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+h5{
+margin-left: 5px;
 }
