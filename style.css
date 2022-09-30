@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family:; */
+}
+
+header{
+   background-color: #562EFF;
+   display: flex;
+   justify-content: center;
+  
+}
+#logo{
+    width: 40px;
+}
+#user{
+    width: 51px;
+}
+#div-main{
+    display: flex;
+    justify-content: space-between;
+    width: 870px;
+    margin: 10px 0;
+}
+#header-left{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+#header-right{
+    display: flex;
+    align-items: center;
+}
+#navs{
+    display: flex;
+}
+ul{
+    margin: 10px;
+    color: white;
+}
